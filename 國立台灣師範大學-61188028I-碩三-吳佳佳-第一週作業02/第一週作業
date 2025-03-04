@@ -1,9 +1,0 @@
-colab連結:
-https://colab.research.google.com/drive/1FKXTgRxJ8AZLcRV3LKA-vAikvj4pmvVP?usp=sharing
-
-對此份作業的重點說明:
-作業的目標是使用Python程式碼繪製一個粉色愛心圖形。我選擇使用函數來定義愛心的形狀，並利用matplotli庫來繪製和填充愛心圖案
-開發邏輯：
-1.使用numpy生成從0到\(2\pi\)的序列來定義愛心形狀
-2.將這些數值代入愛心方程式來計算x和y座標
-3.用matplotlib庫來繪製數據，讓愛心呈淡粉紅色
